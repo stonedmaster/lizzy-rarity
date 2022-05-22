@@ -43430,5 +43430,1009 @@
 				"value": "High Hat"
 			}
 		]
+	},
+	{
+		"name": "Lazy Lizzy #1021",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1021.png",
+		"dna": "d98d50bd0661957dd02c30336cb6590061b2edf2",
+		"edition": 1021,
+		"date": 1651775261164,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Aligator"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Telos Shirt"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Piercing"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Thuglife"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Beanie"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1022",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1022.png",
+		"dna": "79a29acbb2d059d7e6e7fd45ff0fd84aa686c3a2",
+		"edition": 1022,
+		"date": 1651775427569,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Olive"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Chameleon"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "T Shirt"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "VR"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Breton"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1023",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1023.png",
+		"dna": "969b328e90e97da5b8601abb5772275f99fc3f4d",
+		"edition": 1023,
+		"date": 1651775064092,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Relaxed"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Cigar"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1024",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1024.png",
+		"dna": "799a484db272b6baf5d792e6f950cd98d7bdac8e",
+		"edition": 1024,
+		"date": 1651775371871,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Aligator"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Rose"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Telos"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Fly"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Cowboy"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1025",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1025.png",
+		"dna": "c2f02e0865882b609c3f464a34ddfba38a84ac94",
+		"edition": 1025,
+		"date": 1651775775390,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Rosy Brown"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Aligator"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Business Suit"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Pendant"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Aviator"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Straight"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1026",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1026.png",
+		"dna": "211b5fe45d082f29aa077578834685c547ee55f4",
+		"edition": 1026,
+		"date": 1651776051496,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Peach"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Devil"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Business Suit"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Braids"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1027",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1027.png",
+		"dna": "b9bea2626899b91b96b208ff4041457019507035",
+		"edition": 1027,
+		"date": 1651775136980,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Slate Gray"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Tense"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Piercing"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "VR"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1028",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1028.png",
+		"dna": "059e2d7a6a6ded02f04890cd8382386288526ca3",
+		"edition": 1028,
+		"date": 1651775985232,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Violet"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Vaping Device"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Gold"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Messy"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1029",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1029.png",
+		"dna": "e8eec4d5dc5fa2bcd652562f2ea919d01b1bda3f",
+		"edition": 1029,
+		"date": 1651775897760,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Slate Gray"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Piercing"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Combed Back"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1030",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1030.png",
+		"dna": "f0b59e5f9692ac24d4f9eb52557c4f0f72093c69",
+		"edition": 1030,
+		"date": 1651775814236,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Violet"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Aligator"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Richmen's Robe "
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Rose"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Party"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Piercing"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Straight"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1031",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1031.png",
+		"dna": "a88bab2a7d94a2b9324f95a10d01e43c0481f206",
+		"edition": 1031,
+		"date": 1651775102067,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tan"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Business Suit"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Pendant"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1032",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1032.png",
+		"dna": "f7afd4b857a026d041aa0339e3eb07ae8dc0df8b",
+		"edition": 1032,
+		"date": 1651775876507,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Olive"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Leopard"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Laser"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Telos"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Straight"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1033",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1033.png",
+		"dna": "12a1246151a9171475375e44985a859aafec7d84",
+		"edition": 1033,
+		"date": 1651775963525,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fire Brick"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Tense"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Medical"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Joint"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Braids"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1034",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1034.png",
+		"dna": "c94e87602ac4ef3ec69cdb221212dc3d8c0f1179",
+		"edition": 1034,
+		"date": 1651775080849,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Aligator"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1035",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1035.png",
+		"dna": "45a7aaed57234f4d4d7fcb89fe359b00d6809d38",
+		"edition": 1035,
+		"date": 1651775302230,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Peach"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Leopard"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "T Shirt"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Piercing"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Fly"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Santa"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1036",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1036.png",
+		"dna": "398e8510ebef2229a357054e1fc8cd13ddc8ae27",
+		"edition": 1036,
+		"date": 1651775637870,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Gold"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "VR"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Ranger"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1037",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1037.png",
+		"dna": "1c5138ca3094929a1b4547b38dc7fa3f6f018fe5",
+		"edition": 1037,
+		"date": 1651776070395,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Cadet Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Medical"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Vaping Device"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Fly"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Gold"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Emo Fringe"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1038",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1038.png",
+		"dna": "1100bf6e688b93385dd83763c92bd193fb79a4eb",
+		"edition": 1038,
+		"date": 1651775461089,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Violet"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Business Suit"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Vaping Device"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Aviator"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "PCap"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1039",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1039.png",
+		"dna": "b0acb125eb2aa509ed6b58d0c811ef7936eaa3a8",
+		"edition": 1039,
+		"date": 1651775458409,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tomato"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Horned"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Tense"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Vaping Device"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Telos"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Breton"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1040",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1040.png",
+		"dna": "91f78ab5c50ae9fa84ac6313b7439a73731e3ee0",
+		"edition": 1040,
+		"date": 1651775813179,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tan"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Relaxed"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Richmen's Robe "
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Thuglife"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Emo Fringe"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1041",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1041.png",
+		"dna": "3d1743a2f24581550cdd081b7adc0767a9d4d003",
+		"edition": 1041,
+		"date": 1651775382829,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Olive"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Chameleon"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Pendant"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Scholar"
+			},
+			{
+				"trait_type": "Cap",
+				"value": "Flat Hat"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1042",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1042.png",
+		"dna": "6bcdc54d50796c7f3281ac2cf39f288eda191cff",
+		"edition": 1042,
+		"date": 1651776074067,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Rosy Brown"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Chameleon"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Business Suit"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "3D"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Regular"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1043",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1043.png",
+		"dna": "3c7f65e436753a05c6b4b4256b457691574579f2",
+		"edition": 1043,
+		"date": 1651775091157,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Slate Gray"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Devil"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "T Shirt"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Joint"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1044",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1044.png",
+		"dna": "c555fc8f0ff720249d12581b2acaa2aa0aa9cc03",
+		"edition": 1044,
+		"date": 1651775745299,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Rosy Brown"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Tense"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Medical"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Silver Chain"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Scholar"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Telos"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Man Bun"
+			}
+		]
 	}
 ]
