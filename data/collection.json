@@ -65584,5 +65584,111 @@
 				"value": "Flat Hat"
 			}
 		]
+	},
+	{
+		"name": "Lazy Lizzy #1538",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1538.png",
+		"dna": "7a7090fc2bb65d4d4765e041130d62653e9736c7",
+		"edition": 1538,
+		"date": 1651776118542,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Dragon"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Mandalla Medalion"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Aviator"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Loops"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "Emo Fringe"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1539",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1539.png",
+		"dna": "459d197ec2d7337c325aac2af5419d7f0e42b09c",
+		"edition": 1539,
+		"date": 1651775060882,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Peach"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Monster"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Happy"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Fitted Tee"
+			},
+			{
+				"trait_type": "Smoking",
+				"value": "Joint"
+			}
+		]
+	},
+	{
+		"name": "Lazy Lizzy #1540",
+		"description": "Lazy Lizzy a 5555 unique collectible lizard artwork with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmdHfVsSqqUK1iikc1RXgnWDNxdYUeGe8mvwdTLMjntqzJ/1540.png",
+		"dna": "0bde145edea209506b6f1a4a3b280850e5738ee4",
+		"edition": 1540,
+		"date": 1651775081624,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fire Brick"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Leopard"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Angry"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Knight Armour"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Gold Chain"
+			}
+		]
 	}
 ]
